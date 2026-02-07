@@ -8,33 +8,33 @@ Stevenson Michel is a software engineer currently working at **Red Hat**, contri
 
 He is also the **Co-Founder and CEO of EdLight Initiative**, where he leads strategic planning, technology initiatives, and mentorship programs to increase accessibility and learning opportunities in tech.
 
-Previously, Stevenson gained extensive hands-on engineering experience in both academic and professional settings, including:
-### Red Hat Internships
-- **Software Engineer Intern (Jun – Aug 2024)**  
-  - Developed reusable UI components for Ansible, improving engagement by 25% for 10,000+ enterprise users.  
-  - Designed and integrated an automated API performance testing suite in CI/CD pipelines, increasing system reliability by 15% and deployment efficiency by 30%.  
-  - Tech stack: React.js, Python, TypeScript, JavaScript, Cypress, Docker, REST APIs, CI/CD.
+## Technical Skills
 
-### Berea College
-- **Software Engineer (Aug 2023 – May 2025)**  
-  - Developed the **Labor Status Form web application** used by 1,400+ campus users, reducing manual workload by 20%.  
-  - Built a **workflow system** for daily student labor contracts, automating verification and reducing approval time by 35%.  
-  - Streamlined service hour logging processes by 40% with improved registration and management workflows.  
-  - Tech stack: Python, Flask, MySQL, jQuery, HTML, CSS, AJAX, Linux.  
+- **Languages & Frameworks:** Python, C++, JavaScript, TypeScript, React.js, Flask, jQuery, HTML, CSS, AJAX, Bootstrap  
+- **Databases:** MySQL, SQL  
+- **Distributed Systems & Backend:** REST APIs, CI/CD pipelines, performance optimization, fault-tolerant architecture  
+- **Tools & DevOps:** Docker, Cypress, Linux, Jinja, Agile methodologies  
+- **Other:** Machine learning (CNNs, regression), workflow automation, testing & monitoring
 
-- **Computer Science Teaching Assistant (May 2023 – May 2024)**  
-  - Supported 100+ students across workshops, assignments, and code review.  
-  - Provided mentoring in Python and C++, fostering effective problem-solving skills.  
+---
 
-- **Software Engineer Intern (Jun 2023 – Aug 2023)**  
-  - Built a **community service management web app** used by 1,000+ users.  
-  - Developed RESTful APIs and database architecture for volunteer coordination and event tracking, increasing engagement by 30%.  
-  - Tech stack: Python, Flask, MySQL, jQuery, JavaScript, HTML, CSS, AJAX, Bootstrap.  
+## Experience Highlights
 
+- **Red Hat – Software Engineer (Jun 2025 – Present)**  
+  - Backend & distributed system development, Ansible Automation Platform (Controller/AWX)  
 
-### Other Experience
-- **Propel2Excel Fellow (Oct 2024 – Jan 2025)** – Apprenticeship focusing on advanced software engineering practices.  
-- **NSBE Professionals Mentor (Oct 2024 – Oct 2025)** – Mentoring engineers on technical skills, career growth, and best practices.
+- **Red Hat – Software Engineer Intern (Jun – Aug 2024)**  
+  - Reusable UI components, automated API performance testing, CI/CD integration  
+
+- **Berea College – Software Engineer (Aug 2023 – May 2025)**  
+  - Web apps for campus workflow automation (1,400+ users), REST APIs, Python/Flask/MySQL  
+- **Berea College – Software Engineer Intern (Jun – Aug 2023)**  
+  - Community service management web app, backend APIs, database design  
+
+- **EdLight Initiative – Co-Founder & CEO (May 2020 – Present)**  
+  - Leadership, strategic planning, tech initiatives  
+
+- **NSBE Professionals – Software Engineering Mentor (Oct 2024 – Oct 2025)**  
 
 ---
 
